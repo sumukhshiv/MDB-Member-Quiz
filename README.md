@@ -1,4 +1,4 @@
-# spring2017training
+# sp17proj1
 
 Repository for Spring 2017 MDB Training Program Mini-Project 1 Submissions
 
